@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ggg",
+    "lsl",
+    "s s"
+  ],
+  "key":
+  {
+    "l":
+    {
+      "item": "minecraft:leather",
+      "data": 0
+    },
+    "g":
+    {
+      "item": "minecraft:gold_block",
+      "data": 0
+    },
+    "s":
+    {
+      "item": "minecraft:string",
+      "data": 0
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:golden_horse_armor",
+    "count": 1,
+    "data": 0
+  }
+}

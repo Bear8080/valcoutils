@@ -1,15 +1,15 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "valcoutils",
+  "name": "Valco Utils",
+  "description": "Valentine Community Utilities",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://valentine.community",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authorList": ["Bear8080"],
+  "credits": "The Valentine Community and the Forge/FML guys.",
+  "logoFile": "assets/logo.png",
   "screenshots": [],
   "dependencies": []
 }
