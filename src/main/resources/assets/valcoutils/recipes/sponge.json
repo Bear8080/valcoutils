@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "www",
+    "w w",
+    "www"
+  ],
+  "key":
+  {
+    "w":
+    {
+      "item": "minecraft:wool",
+      "data": 0
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:sponge",
+    "count": 1,
+    "data": 0
+  }
+}

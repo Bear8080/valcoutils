@@ -14,7 +14,7 @@ public class ValcoUtils
 {
     public static final String MODID = "valcoutils";
     public static final String NAME = "Valco Utils";
-    public static final String VERSION = "20.01.24";
+    public static final String VERSION = "20.01.25";
 
     private static Logger logger;
 

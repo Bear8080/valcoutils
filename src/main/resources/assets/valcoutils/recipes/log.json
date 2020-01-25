@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "sss",
+    "sss",
+    "sss"
+  ],
+  "key":
+  {
+    "s":
+    {
+      "type": "forge:oredict",
+      "ore": "stickWood"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:log",
+    "count": 1,
+    "data": 0
+  }
+}
