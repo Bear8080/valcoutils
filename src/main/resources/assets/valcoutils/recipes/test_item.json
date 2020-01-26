@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "doorWood"
+    }],
+  "result":
+  {
+    "item": "valcoutils:test_item",
+    "count": 1,
+    "data": 0
+  }
+}

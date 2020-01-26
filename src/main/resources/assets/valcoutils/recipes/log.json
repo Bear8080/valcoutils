@@ -10,7 +10,7 @@
   {
     "s":
     {
-      "type": "forge:oredict",
+      "type": "forge:ore_dict",
       "ore": "stickWood"
     }
   },
